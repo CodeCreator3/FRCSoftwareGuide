@@ -1,4 +1,6 @@
 site_name: FRC Software Guide
+site_url: https://codecreator3.github.io/FRCSoftwareGuide/
+
 theme:
   name: material  # This gives it the professional WPILib-style look
   palette:
