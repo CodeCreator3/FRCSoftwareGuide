@@ -59,10 +59,9 @@ nav:
       - 3.3 Subsystem Structure: 3.3.md
       - 3.4 Closed Loop: 3.4.md
       - 3.5 Motor Object: 3.5.md
-      - 3.6 Creating a Subsystem: 
-          - 3.6.1 Linear Mechanism: 3.6.1.md
-          - 3.6.2 Angular Pos Mechanism: 3.6.2.md
-          - 3.6.3 Angular Vel Mechanism: 3.6.3.md
+      - 3.6.1 Linear Mechanism: 3.6.1.md
+      - 3.6.2 Angular Pos Mechanism: 3.6.2.md
+      - 3.6.3 Angular Vel Mechanism: 3.6.3.md
   - 4 Subsystems:
       - 4.1 Advantage Kit: 4.1.md
       - 4.2 Advantage Scope Installation: 4.2.md
