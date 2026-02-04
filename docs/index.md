@@ -22,14 +22,25 @@ Tim Ellis - timothyellis913@gmail.com
 
 ## References
 [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
+
 [WPILib Documentation](https://docs.wpilib.org/en/stable/index.html)
+
 [Codecademy Java Course](https://www.codecademy.com/learn/java-introduction)
+
 [W3Schools Java Tutorial](https://www.w3schools.com/java/)
+
 [TalonFX Documentation](https://v6.docs.ctr-electronics.com/en/stable/docs/hardware-reference/talonfx/index.html)
+
 [REV Software Resources](https://www.revrobotics.com/software/)
+
 [Citrus Circuits Training Resources](https://www.citruscircuits.org/training_resources.html)
+
 [Advantage Scope Documentation](https://docs.advantagescope.org/)
+
 [Advantage Kit Documentation](https://docs.advantagekit.org/)
+
 [Choreo Documentation](https://choreo.autos/)
+
 [Path Planner Docs](https://pathplanner.dev/home.html)
+
 [Learn FRC Software Videos](https://www.youtube.com/watch?v=64hPDvphcfA&list=PLqRXWqTddH5T2sV0a8rHOvq7EqbI8EWdg&index=1)
