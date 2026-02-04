@@ -2,10 +2,29 @@ site_name: FRC Software Guide
 site_url: https://codecreator3.github.io/FRCSoftwareGuide/
 
 theme:
-  name: material  # This gives it the professional WPILib-style look
-  palette:
-    primary: indigo # You can change this to your team's color
-    accent: indigo
+  name: material
+  palette: 
+    # This adds a light/dark mode toggle in the top right
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs      # Top horizontal menu
+    - navigation.sections  # Groups subpages in the sidebar
+    - search.suggest       # Search bar helper
+    - search.highlight     # Highlights search terms
+
+repo_url: https://github.com/codecreator3/FRCSoftwareGuide
+repo_name: codecreator3/FRCSoftwareGuide
 
 nav:
   - Home: index.md
