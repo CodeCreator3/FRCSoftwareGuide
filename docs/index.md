@@ -7,7 +7,6 @@
 - The value you get out of this is directly proportional to the effort you put in
 - The course is setup to be ready linearly from start to finish, but readers with experience are welcome to jump around
 - The goal is to teach Java, then basic FRC software, then advanced FRC software
-- This guide is up to date November 2025. 
 - Software changes fast, so always refer to updated online documentation when unsure.
 - Please enjoy! ❤️
 

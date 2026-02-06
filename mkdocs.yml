@@ -29,72 +29,72 @@ repo_name: codecreator3/FRCSoftwareGuide
 nav:
   - Home: index.md
   - 1 Learn Java:
-      - 1.0 Intro: 1.0.md
-      - 1.1 WPILib: 1.1.md
-      - 1.2 VSCode: 1.2.md
-      - 1.3 Java Program: 1.3.md
-      - 1.4 Variables: 1.4.md
-      - 1.5 Logic: 1.5.md
-      - 1.6 Arrays: 1.6.md
-      - 1.7 Methods: 1.7.md
-      - 1.8 Scanner: 1.8.md
-      - 1.9 Classes: 1.9.md
-      - 1.10 File Organization: 1.10.md
-      - 1.11 Enums: 1.11.md
-      - 1.12 Math Library: 1.12.md
-      - 1.13 Project: 1.13.md
-      - 1.14 Suppliers: 1.14.md
+      - 1.0 Intro: 1/1.0.md
+      - 1.1 WPILib: 1/1.1.md
+      - 1.2 VSCode: 1/1.2.md
+      - 1.3 Java Program: 1/1.3.md
+      - 1.4 Variables: 1/1.4.md
+      - 1.5 Logic: 1/1.5.md
+      - 1.6 Arrays: 1/1.6.md
+      - 1.7 Methods: 1/1.7.md
+      - 1.8 Scanner: 1/1.8.md
+      - 1.9 Classes: 1/1.9.md
+      - 1.10 File Organization: 1/1.10.md
+      - 1.11 Enums: 1/1.11.md
+      - 1.12 Math Library: 1/1.12.md
+      - 1.13 Project: 1/1.13.md
+      - 1.14 Suppliers: 1/1.14.md
   - 2 GitHub:
-      - 2.0 Intro: 2.0.md
-      - 2.1 Create Account: 2.1.md
-      - 2.2 Install Git: 2.2.md
-      - 2.3 GitHub Organization: 2.3.md
-      - 2.4 Repository: 2.4.md
-      - 2.5 Cloning: 2.5.md
-      - 2.6 Branches: 2.6.md
-      - 2.7 README.md: 2.7.md
-      - 2.8 Issues: 2.8.md
-      - 2.9 Rebases: 2.9.md
+      - 2.0 Intro: 2/2.0.md
+      - 2.1 Create Account: 2/2.1.md
+      - 2.2 Install Git: 2/2.2.md
+      - 2.3 GitHub Organization: 2/2.3.md
+      - 2.4 Repository: 2/2.4.md
+      - 2.5 Cloning: 2/2.5.md
+      - 2.6 Branches: 2/2.6.md
+      - 2.7 README.md: 2/2.7.md
+      - 2.8 Issues: 2/2.8.md
+      - 2.9 Rebases: 2/2.9.md
   - 3 Subsystems:
-      - 3.0 Intro: 3.0.md
-      - 3.1 Robot Project: 3.1.md
-      - 3.2 Subsystem Class: 3.2.md
-      - 3.3 Subsystem Structure: 3.3.md
-      - 3.4 Closed Loop: 3.4.md
-      - 3.5 Motor Object: 3.5.md
-      - 3.6 Writing a Subsystem: 3.6.md
+      - 3.0 Intro: 3/3.0.md
+      - 3.1 Robot Project: 3/3.1.md
+      - 3.2 Subsystem Class: 3/3.2.md
+      - 3.3 Subsystem Structure: 3/3.3.md
+      - 3.4 Closed Loop: 3/3.4.md
+      - 3.5 Motor Object: 3/3.5.md
+      - 3.6 Writing a Subsystem: 3/3.6.md
   - 4 Subsystems:
-      - 4.0 Intro: 4.0.md
-      - 4.1 Advantage Kit: 4.1.md
-      - 4.2 Advantage Scope Installation: 4.2.md
-      - 4.3 Units: 4.3.md
-      - 4.4 Tunable Numbers: 4.4.md
-      - 4.5 Sensors: 4.5.md
+      - 4.0 Intro: 4/4.0.md
+      - 4.1 Advantage Kit: 4/4.1.md
+      - 4.2 Advantage Scope Installation: 4/4.2.md
+      - 4.3 Units: 4/4.3.md
+      - 4.4 Tunable Numbers: 4/4.4.md
+      - 4.5 Sensors: 4/4.5.md
   - 5 Commands:
-      - 5.0 Intro: 5.0.md
-      - 5.1 Creating Commands: 5.1.md
-      - 5.2 Running Commands: 5.2.md
-      - 5.3 Elastic: 5.3.md
-      - 5.4 Running the Mech: 5.4.md
-      - 5.5 Next Steps: 5.5.md
+      - 5.0 Intro: 5/5.0.md
+      - 5.1 Creating Commands: 5/5.1.md
+      - 5.2 Running Commands: 5/5.2.md
+      - 5.3 Elastic: 5/5.3.md
+      - 5.4 Running the Mech: 5/5.4.md
+      - 5.5 Next Steps: 5/5.5.md
   - 6 Drivetrain:
-      - 6.0 Intro: 6.0.md
-      - 6.1 Swerve: 6.1.md
-      - 6.2 Mecanum: 6.2.md
-      - 6.3 Differential (Tank): 6.3.md
+      - 6.0 Intro: 6/6.0.md
+      - 6.1 Swerve: 6/6.1.md
+      - 6.2 Mecanum: 6/6.2.md
+      - 6.3 Differential (Tank): 6/6.3.md
   - 7 Robot Vision:
-      - 7.0 Intro: 7.0.md
-      - 7.1 Sample: 7.1.md
+      - 7.0 Intro: 7/7.0.md
+      - 7.1 Sample: 7/7.1.md
   - 8 Simulation:
-      - 8.0 Intro: 8.0.md
-      - 8.1 Sample: 8.1.md
+      - 8.0 Intro: 8/8.0.md
+      - 8.1 Sample: 8/8.1.md
   - 9 State Machines:
-      - 9.0 Intro: 9.0.md
-      - 9.1 Sample: 9.1.md
+      - 9.0 Intro: 9/9.0.md
+      - 9.1 Sample: 9/9.1.md
   - 10 Autonomous:
-      - 10.0 Intro: 10.0.md
-      - 10.1 Choreo: 10.1.md
-      - 10.2 On-the-fly gen: 10.2.md
+      - 10.0 Intro: 10/10.0.md
+      - 10.1 Choreo: 10/10.1.md
+      - 10.2 On-the-fly gen: 10/10.2.md
   - 11 State-Based Action:
-      - 11.0 Intro: 11.0.md
-      - 11.1 Sample: 11.1.md
+      - 11.0 Intro: 11/11.0.md
+      - 11.1 Sample: 11/11.1.md
