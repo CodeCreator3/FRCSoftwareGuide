@@ -2,8 +2,10 @@
 ## Overview
 - This course is designed to take anyone from zero to high-level FRC programmer
 - This course is based in Java
+- Software has the most aggressive learning curve of any area of FRC
 - As with any course, learning must be supplemented with practice
 - The value you get out of this is directly proportional to the effort you put in
+- The course is setup to be ready linearly from start to finish, but readers with experience are welcome to jump around
 - The goal is to teach Java, then basic FRC software, then advanced FRC software
 - This guide is up to date November 2025. 
 - Software changes fast, so always refer to updated online documentation when unsure.
@@ -18,7 +20,7 @@
 
 
 ## Contributors
-Tim Ellis - timothyellis913@gmail.com
+Tim Ellis - 2930 Alum, 11025 Mentor, Big Sky Robotics Ri3D Member - timothyellis913@gmail.com
 
 ## References
 [Java Documentation](https://docs.oracle.com/javase/8/docs/api/)  
